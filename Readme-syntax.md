@@ -1,6 +1,30 @@
 # Git Readme.md syntax:
 
-<h1> Title </h1>
+<h1> Some Basic Commands </h1>
+
+git init
+
+git add (file name)
+
+git add .
+
+git status
+
+git commit -m "message"
+
+git log
+
+git log --oneline
+
+git revert commitid
+
+git reset commitid
+
+git show commitid
+
+git pull 
+
+git push
 
 
 # ordered list:
@@ -10,7 +34,7 @@
 
 # ordered list with sub list:
 1. list 1
-  item1
+ _item1
 1. list2
   item 2
 1. list3
